@@ -11,12 +11,13 @@
               <td>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-family: verdana, arial, helvetica; font-size: 11px;">
                   <tr>
-                  <td style="width:100px">
-                      <img src="http://communitytechnw.org/sites/default/files/ctnwlogo3.png">
-                    </td>
+                  <td style="width:100%">
+                      <img src="http://communitytechnw.org/sites/default/files/WebInvoiceHeaderImage.png"></td>
+                  </tr>
+                  <tr>
                   <td nowrap="nowrap" style="line-height: 1.6em;font-size: large" valign="middle">
-                      CommunityTech NW<br/>
                       Bellingham, WA<br/>
+		      360-389-3341<br/>
                       http://communitytechnw.org
                     </td>
                   </tr>
@@ -75,10 +76,15 @@
               </td>
             </tr>
             <tr>
+                  <td style="line-height: 1.6em;font-size: small" valign="middle">
+                     <b> Payment method:</b>&nbsp; &nbsp; __credit card &nbsp; &nbsp; __cash &nbsp; &nbsp; __check # ___________
+                    </td>
+            </tr>
+            <tr>
               <td>
                 <table>
                   <tr>
-                    <td colspan="2" style="background: #EEE; color: #666; padding: 1em; font-size: 0.9em; line-height: 1.6em; border-top: #CCC 1px dotted; text-align: center;">
+                    <td colspan="2" style="background: #EEE; color: #666; padding: 1em; font-size: 1.2em; line-height: 1.4em; border-top: #CCC 1px dotted; text-align: center;">
                       Thank You
                     </td>
                   </tr>

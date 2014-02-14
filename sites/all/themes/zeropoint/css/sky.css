@@ -170,7 +170,7 @@ a, a:link,
 	background-color: #2f71a2;
 	color: #fff !important;
 	text-transform: uppercase;
-	font-family: "times new roman", sans-serif, Arial, Verdana, Helvetica;
+	font-family: sans-serif, Arial, Verdana, Helvetica;
 }
 #navlinks ul li a:hover, #navlist li a:hover {
 	color: #fff !important;

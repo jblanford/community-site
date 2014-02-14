@@ -671,7 +671,7 @@ h1#site-name a, h1#site-name a:hover {
 	margin: 0;
 }
 #navlinks ul li a, #navlist a {
-	padding: 2px 22px;
+	padding: 2px 16px;
 	font-size: 12px;
 	font-weight: normal;
 	line-height: 22px;
